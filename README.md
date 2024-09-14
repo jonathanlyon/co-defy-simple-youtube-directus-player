@@ -1,1 +1,1 @@
-# directus_vi_ext
+# directus video interface for youtube video within a collection field
