@@ -36,3 +36,5 @@ CONTENT_SECURITY_POLICY_DIRECTIVES__IMG_SRC=array:'self' data:, i.ytimg.com 'uns
 CONTENT_SECURITY_POLICY_DIRECTIVES__MEDIA_SRC=array:'self', cdn.plyr.io
 ```
 
+
+**Thanks to @https://github.com/FullStackChef for the Vue3 code refactoring - I owe you a beer!**
